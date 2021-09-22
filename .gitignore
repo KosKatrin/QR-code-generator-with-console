@@ -112,3 +112,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+digit.png
+qrcode_digit_center.jpg
+test.png
+test1.png
+test3.png
